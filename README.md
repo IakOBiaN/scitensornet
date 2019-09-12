@@ -1,2 +1,2 @@
-# scitensornet
-SciTensorNet: Implementation of various tensor network algorithms
+# SciTensorNet
+Implementation of various tensor network algorithms.
